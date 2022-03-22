@@ -1,0 +1,4 @@
+#Sat Mar 19 17:47:05 SAMT 2022
+base.0=/home/cosysoft/Code/go/cosy_contacts/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

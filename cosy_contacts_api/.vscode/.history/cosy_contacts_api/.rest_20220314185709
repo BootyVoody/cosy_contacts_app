@@ -1,0 +1,9 @@
+GET http://localhost:3535/api/v1/groups/get HTTP/1.1
+
+###
+
+GET http://localhost:3535/api/v1/subgroups/get HTTP/1.1
+
+###
+
+GET http://localhost:3535/api/v1/contacts/get HTTP/1.1

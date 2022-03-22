@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/cosy_contacts/BuildConfig.java
+ com.example.cosy_contacts.BuildConfig
